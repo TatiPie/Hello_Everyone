@@ -1,0 +1,8 @@
+a = input('введите имя')
+b = input('введите фамилию')
+c = input('введите отчество')
+d = int(input('введите вораст'))
+e = input('введите город')
+print(a,b,c)
+print(d)
+print(e)
